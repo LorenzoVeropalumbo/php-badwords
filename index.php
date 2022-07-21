@@ -18,8 +18,8 @@
     ?>
 
     <h2><?php echo $paragraph ?></h2>
-    <h2><?php echo strlen($paragraph) ?></h2>
+    <h2>il paragrafo ha <?php echo strlen($paragraph) ?> caratteri</h2>
     <h2><?php echo $newparagraph ?></h2>
-    <h2><?php echo strlen($newparagraph) ?></h2> 
+    <h2>il paragrafo modificato ha <?php echo strlen($newparagraph) ?> caratteri</h2> 
 </body>
 </html>
