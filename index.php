@@ -9,7 +9,7 @@
 <body>
 
     <?php 
-      //scrivo il paragrafo 
+      //scrivo il paragrafo
       $paragraph = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.";
       // salvo la badward datami dall' utante
       $badworld = $_GET['badworld'];
